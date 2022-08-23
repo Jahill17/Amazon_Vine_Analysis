@@ -15,6 +15,7 @@ This is an analysis on Amazon's vine review program using PySpark, AWS, RDS, and
 
 ## Steps Performed
 - First was to extract the dataset from an AWS S3 (using PySpark) to transform and load it to AWS.
+- Subsequently I created the necessary tables in [pgAdmin4](https://github.com/Jahill17/Amazon_Vine_Analysis/blob/main/pgAdmin_TableCreation.png)
 
 ## Results
 
